@@ -66,12 +66,8 @@ folder. Add the corresponding files there so the links below work.
 
 ## Project Demo Video
 
-[Watch the Employee Raise Issue project
-demo](PASTE_YOUR_VIDEO_LINK_HERE)
+https://drive.google.com/drive/folders/1k0P58hUWSCt2qRmTVOxQ41YOVXhIFPCz?usp=sharing
 
-> Replace `PASTE_YOUR_VIDEO_LINK_HERE` with the shareable URL of your
-> screen-recording video (for example, a Google Drive or YouTube link).
-> Make sure the video sharing permission allows viewers to open it.
 
 ## Setup and Usage
 
