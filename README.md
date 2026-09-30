@@ -66,7 +66,7 @@ folder. Add the corresponding files there so the links below work.
 
 ## Project Demo Video
 
-https://drive.google.com/drive/folders/1k0P58hUWSCt2qRmTVOxQ41YOVXhIFPCz?usp=sharing
+https://drive.google.com/drive/folders/1kjp890uF04Gdf9Htm0hjVqFPX9o-62jh?usp=drive_link
 
 
 ## Setup and Usage
